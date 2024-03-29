@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kknownn/](https://www.linkedin.com/in/kknownn/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/kknownn/](https://www.linkedin.com/in/kknownn/)
 
-- ⚡ Fun fact **I love Apple Inc.!**
+- ⚡ Fun fact: **I love Apple Inc.!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
