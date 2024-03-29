@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/kknownn/kknownn/main/banner.png)
 <h1 align="center">Hi 👋, I'm Wiputdanai!</h1>
 <h3 align="center">Thai student that can code a little bit, but love Apple so much! My GitHub is my playground 🛝.</h3>
 
