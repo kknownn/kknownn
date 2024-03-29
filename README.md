@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiputdanai!</h1>
-<h3 align="center">Student that can code a little bit, but love Apple so much! My GitHub is my playground 🛝.</h3>
+<h3 align="center">Thai student that can code a little bit, but love Apple so much! My GitHub is my playground 🛝.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kknownn&label=Profile%20views&color=919191&style=flat" alt="kknownn" /> </p>
 
